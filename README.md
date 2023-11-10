@@ -42,32 +42,35 @@ Welcome to the README for "The Concept," a UI/UX project created to promote and 
 </div>
 <div align="center">
   <h3>Videos</h3>
-
-  <h3> video 1</h3>
-  https://github.com/ibhandarikrishna/TheConcept/assets/115021507/242af85e-3209-435c-bde4-57da3805c5fa
-
-
-<div>
-  <h3> video 1</h3>
-  https://github.com/ibhandarikrishna/TheConcept/assets/115021507/20a4594b-1f0d-48a4-9597-4b50a892efde
 </div>
+<br><br>
+<h3>&#x2022; Auto scrolling in Main page</h3>
 
-<div>
-  <h3> video 1</h3>
-  https://github.com/ibhandarikrishna/TheConcept/assets/115021507/88ccd585-f5a0-42ed-9a8d-95a43aba3b69
-</div>
-
-<div>
-  <h3> video 1</h3>
-  https://github.com/ibhandarikrishna/TheConcept/assets/115021507/556740ba-a809-40c0-8f14-11a7d022eb30
-</div>
-<div>
-  <h3> video 1</h3>
-  https://github.com/ibhandarikrishna/TheConcept/assets/115021507/a9d831e1-f6ca-4dc1-a7c7-b471f4777f5d
-</div>
+https://github.com/ibhandarikrishna/TheConcept/assets/115021507/60c80c35-9629-4ef4-bc67-3b3a770c77ed
 
 
+<br><br>
+
+<h3>&#x2022; Animation between product pages by next and previous button and Navigation between Home page and Navigation page</h3>
+
+https://github.com/ibhandarikrishna/TheConcept/assets/115021507/7b3fbf64-779a-4672-8dc9-8c0dcb89ebb5
 
 
-</div>
+<br><br>
+<h3>&#x2022; Product Information by clicking Image in Home page</h3>
+
+https://github.com/ibhandarikrishna/TheConcept/assets/115021507/f2b80bf3-6f54-46f8-8fdd-ffb261eeb193
+
+
+<br><br>
+<h3>&#x2022; Gallery Page  with Images of every Products we Sell. Fixed Header and Side bar.</h3>
+
+https://github.com/ibhandarikrishna/TheConcept/assets/115021507/9f177445-3100-4d98-9045-73b43ebbafb8
+
+
+<br><br>
+<h3>&#x2022; About Page with working links</h3>
+
+https://github.com/ibhandarikrishna/TheConcept/assets/115021507/ab501cfe-b509-4013-b97c-550c4673c6e5
+
 
