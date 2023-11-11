@@ -24,22 +24,24 @@ Welcome to the README for "The Concept," a UI/UX project created to promote and 
 
 <div align="center">
   <h3>Images</h3>
-<img src="https://github.com/ibhandarikrishna/TheConcept/blob/main/img/Screenshot%20(270).png">
-<img src="https://github.com/ibhandarikrishna/TheConcept/blob/main/img/Screenshot%20(281).png">
-  
-<img src="https://github.com/ibhandarikrishna/TheConcept/blob/main/img/Screenshot%20(269).png">
-<img src="https://github.com/ibhandarikrishna/TheConcept/blob/main/img/Screenshot%20(271).png">
-<img src="https://github.com/ibhandarikrishna/TheConcept/blob/main/img/Screenshot%20(273).png">
-<img src="https://github.com/ibhandarikrishna/TheConcept/blob/main/img/Screenshot%20(274).png">
-<img src="https://github.com/ibhandarikrishna/TheConcept/blob/main/img/Screenshot%20(275).png">
-<img src="https://github.com/ibhandarikrishna/TheConcept/blob/main/img/Screenshot%20(276).png">
-<img src="https://github.com/ibhandarikrishna/TheConcept/blob/main/img/Screenshot%20(277).png">
-<img src="https://github.com/ibhandarikrishna/TheConcept/blob/main/img/Screenshot%20(278).png">
-<img src="https://github.com/ibhandarikrishna/TheConcept/blob/main/img/Screenshot%20(279).png">
-<img src="https://github.com/ibhandarikrishna/TheConcept/blob/main/img/Screenshot%20(280).png">
-<img src="https://github.com/ibhandarikrishna/TheConcept/blob/main/img/Screenshot%20(283).png">
-<img src="https://github.com/ibhandarikrishna/TheConcept/blob/main/img/Screenshot%20(284).png">
 </div>
+
+![Screenshot (270)](https://github.com/ibhandarikrishna/storage/assets/115021507/5c219805-d25a-4fd4-98ed-048b3a6fe6bc)
+![Screenshot (281)](https://github.com/ibhandarikrishna/storage/assets/115021507/56f0cfac-10c5-49d3-a664-2d3b9150d329)
+![Screenshot (269)](https://github.com/ibhandarikrishna/storage/assets/115021507/619c51d8-3097-46f6-8e69-562e399c5634)
+![Screenshot (271)](https://github.com/ibhandarikrishna/storage/assets/115021507/4b6d1c00-dcbc-4c1a-80b9-abefe82feee4)
+![Screenshot (273)](https://github.com/ibhandarikrishna/storage/assets/115021507/7b3505ad-05f7-480e-9f57-c875a62f686c)
+![Screenshot (274)](https://github.com/ibhandarikrishna/storage/assets/115021507/56138938-287d-49c5-8cee-81f9e29b44cd)
+![Screenshot (275)](https://github.com/ibhandarikrishna/storage/assets/115021507/e4c54ef0-180e-41e2-b5b1-7debccf27c81)
+![Screenshot (276)](https://github.com/ibhandarikrishna/storage/assets/115021507/ef6fa054-96be-40c2-9ab6-d80f4d78f2ee)
+![Screenshot (277)](https://github.com/ibhandarikrishna/storage/assets/115021507/d1b5eec0-b5ba-4c49-bed6-b741304eff37)
+![Screenshot (278)](https://github.com/ibhandarikrishna/storage/assets/115021507/3128e879-6c6a-4440-8dbc-65d51629e344)
+![Screenshot (279)](https://github.com/ibhandarikrishna/storage/assets/115021507/509a7be9-0459-4fec-bef3-5c5554c0fb38)
+![Screenshot (280)](https://github.com/ibhandarikrishna/storage/assets/115021507/2ff6eaad-a76f-4771-8751-b948e85c484b)
+![Screenshot (283)](https://github.com/ibhandarikrishna/storage/assets/115021507/021dae83-e2c2-48e3-944f-00dda426c404)
+![Screenshot (284)](https://github.com/ibhandarikrishna/storage/assets/115021507/4f625c4c-8982-4156-9baa-3511a6d5d84b)
+
+
 <div align="center">
   <h3>Videos</h3>
 </div>
@@ -72,5 +74,3 @@ https://github.com/ibhandarikrishna/TheConcept/assets/115021507/9f177445-3100-4d
 <h3>&#x2022; About Page with working links</h3>
 
 https://github.com/ibhandarikrishna/TheConcept/assets/115021507/ab501cfe-b509-4013-b97c-550c4673c6e5
-
-
